@@ -1,16 +1,19 @@
-# App Engine Mail API
+# Google App Engine Mail API
+
+[![Bagde: Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
+[![Bagde: Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
+[![Badge: Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
+[![Badge: CI](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml)
+[![Badge: LICENSE](https://img.shields.io/github/license/cyclenerd/google-cloud-appengine-mail-api)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/blob/master/LICENSE)
 
 Create your own Mail API based on Google App Engine (GAE).
 
 This Mail API make integrating email into your existing applications easy with your own RESTful API.
+It is developed in Python 3 and uses the Google App Engine API for legacy bundled services.
 
-Make API calls:
+Make API calls to emails:
 
-![Screenshot: Postman Mail API](./img/postman.png)
-
-To emails:
-
-![Screenshot: Google Mail](./img/gmail.png)
+![Screenshot: Postman Mail API and Google Mail](./img/api-to-mail.png)
 
 
 ## 🏃 Deploying
