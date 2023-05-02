@@ -1,0 +1,6 @@
+runtime: python310
+app_engine_apis: true
+
+env_variables:
+  SECRET_ID: 'api-password'
+  SENDER: 'Google App Engine <no-reply@nkn-it-mail.appspotmail.com>'

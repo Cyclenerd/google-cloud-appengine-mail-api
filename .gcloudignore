@@ -1,0 +1,23 @@
+.gcloudignore
+.git
+.github
+.gitignore
+
+# Markdown (README)
+img/
+*.md
+
+# Python pycache
+__pycache__
+
+# Terraform
+.terraform/
+*.tf
+*.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Ignored by the build system
+/setup.cfg
