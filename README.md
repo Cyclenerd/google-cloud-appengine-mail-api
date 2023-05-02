@@ -6,7 +6,7 @@
 [![Badge: CI](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml)
 [![Badge: LICENSE](https://img.shields.io/github/license/cyclenerd/google-cloud-appengine-mail-api)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/blob/master/LICENSE)
 
-Create your own Mail API based on Google App Engine (GAE).
+Create your own Mail API based on Google App Engine (GAE) with 99.95% uptime SLA.
 
 This Mail API make integrating email into your existing applications easy with your own RESTful API.
 It is developed in Python 3 and uses the Google App Engine API for legacy bundled services.
