@@ -29,3 +29,6 @@ terraform.rc
 
 # Python cache
 __pycache__
+
+# PHP
+**/vendor/

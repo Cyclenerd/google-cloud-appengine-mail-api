@@ -19,5 +19,8 @@ __pycache__
 *.tfvars
 *.tfvars.json
 
+# Examples
+examples/
+
 # Ignored by the build system
 /setup.cfg

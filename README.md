@@ -105,6 +105,8 @@ HTTP code: `201`
 Successfully sent mail to test@nkn-it.de.
 ```
 
+👉 **[More examples (Go, PHP, Perl, Python, Ruby...)](./examples/)**
+
 
 ## 🆘 Error codes
 
