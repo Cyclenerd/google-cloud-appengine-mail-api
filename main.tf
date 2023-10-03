@@ -39,7 +39,7 @@ resource "google_secret_manager_secret" "api-password" {
   project   = var.project_id
   secret_id = var.secret_id
   replication {
-    automatic = true
+    auto {}
   }
   depends_on = [google_project_service.secretmanager]
 }
