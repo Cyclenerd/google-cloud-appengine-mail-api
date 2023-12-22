@@ -85,7 +85,6 @@ POST https://PROJECT_ID.REGION_ID.r.appspot.com/messages
 | subject   | Message subject | 
 | text      | Body of the message. (text version) |
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/27209799-10be5b51-0e87-40b6-b296-3f6e5171b065?action=collection%2Ffork&collection-url=entityId%3D27209799-10be5b51-0e87-40b6-b296-3f6e5171b065%26entityType%3Dcollection%26workspaceId%3D2f69452f-4a42-4034-9954-d1d38e17ef0a)
 
 ### Example
 
