@@ -18,7 +18,7 @@ jobs:
       - uses: hashicorp/setup-terraform@v3
 
       - name: 🛎️ Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Check Python scripts
       - name: Python 🔎
