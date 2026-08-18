@@ -1,10 +1,34 @@
 # Google App Engine Mail API
 
-[![Badge: Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
-[![Badge: Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
-[![Badge: Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api#readme)
-[![Badge: CI](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/actions/workflows/ci.yml)
-[![Badge: LICENSE](https://img.shields.io/github/license/cyclenerd/google-cloud-appengine-mail-api)](https://github.com/Cyclenerd/google-cloud-appengine-mail-api/blob/master/LICENSE)
+## Public Archive Notice
+
+This repository has been transitioned to a public archive.
+While development has ceased, the codebase remains available for reference and historical purposes.
+
+**Impact on Current Users:**
+
+* New features and bug fixes will no longer be implemented.
+* Issues and pull requests will not be reviewed or merged.
+
+**Accessing the Codebase:**
+
+* You can continue to clone, fork, and explore the code at your convenience.
+* The codebase reflects the repository's state at the time of archiving.
+
+**Staying Informed:**
+
+* I recommend considering alternative projects that are actively maintained for your ongoing development needs.
+
+**Contributing:**
+
+* While new contributions are no longer accepted in this repository, feel free to explore forking the codebase and creating your own derivative project.
+
+**Thank You:**
+
+I appreciate your past contributions and interest in this project.
+I hope the archived codebase remains a valuable resource!
+
+---
 
 Create your own Mail API based on Google App Engine (GAE) with 99.95% uptime SLA.
 
